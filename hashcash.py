@@ -1,9 +1,8 @@
 import string
 import random
 import hashlib
-from colorama import init, Fore, Back, Style
+from colorama import Fore, Back
 import os
-import re
 
 green = Fore.GREEN
 cyan = Fore.CYAN
